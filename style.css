@@ -1,0 +1,38 @@
+body{
+    align-content: center;
+}
+center{
+    text-align: left;
+    height: 600px;
+    border-radius: 12px;  
+    background-color: whitesmoke;
+}
+.containeer{
+    text-align: center;
+    position: relative;
+    width: 280px;
+    background-color: aqua;
+    padding: 4px;
+    margin: 10px;
+    width: 310px;
+}
+.main{
+    padding-left: 20px;
+}
+button{
+    color: blueviolet;
+}
+h2{
+    text-align: left;
+    color: green;
+}
+button{
+    background-color: green;
+    color: whitesmoke;
+    width: 250px;
+    height: 30px;
+    border-radius: 6px;
+}
+p{
+    line-height: 20px;
+}
